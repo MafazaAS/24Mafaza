@@ -6,7 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use app\Models\User;
 
-class user extends Controller
+class mafaza_controller extends Controller
 {
     /**
      * Display a listing of the resource.
